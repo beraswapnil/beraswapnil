@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @beraswapnil
+- 👀 I’m interested in Java and Python.
+- 🌱 I’m currently learning web development and machine learning.
+- 💞️ I’m looking to collaborate on open-source projects and software development.
+- 📫 How to reach me: beraswapnil47@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to listen to ASMR videos while coding!
